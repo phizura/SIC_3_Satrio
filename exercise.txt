@@ -1,0 +1,5 @@
+● Sebutkan step-step dan command line saat menginisasi project untuk menggunakan git hingga sampai push ke github
+1. 
+● Apa perbedaan git reset dan git revert
+2. git revert adalah Command yang digunakan untuk mengembalikan sebuah commit dalam bentuk commit baru 
+● Apa bedanya GIT dengan GITHUB
